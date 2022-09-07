@@ -7,8 +7,8 @@
 The Data Wrangling process starts with gathering the datasets, assessing them, then cleaning for easy and correct analysis.
 
 ---
+[wrangle_report.pdf](https://github.com/Zion-Zion/We_Rate_Dogs_Tweets-analysis/blob/main/wrangle_report.pdf) contains the wrangling report.
+[wrangle_act](https://github.com/Zion-Zion/We_Rate_Dogs_Tweets-analysis/blob/main/wrangle_act.pdf) contains the project code.
+[act_report](https://github.com/Zion-Zion/We_Rate_Dogs_Tweets-analysis/blob/main/act_report.pdf) contains insights from the data.
 
-            
-            wrangle_report.pdf
-            
-contains the wrangling report
+All files can be gotten [here](https://github.com/Zion-Zion/We_Rate_Dogs_Tweets-analysis/find/main)
